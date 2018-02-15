@@ -1,0 +1,12 @@
+{
+    "name": "aram/kube-backapp",
+    "description": "Backend to learn kubernetes",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alberto Aram Rascón García",
+            "email": "aram123@gmail.com"
+        }
+    ],
+    "require": {}
+}
